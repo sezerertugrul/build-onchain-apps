@@ -154,3 +154,4 @@ test
 testson
 test sonu geçersiz oldu
 hala işlem olmuyor
+tekrarlamalar yuapılıyor
