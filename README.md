@@ -155,3 +155,4 @@ testson
 test sonu geçersiz oldu
 hala işlem olmuyor
 tekrarlamalar yuapılıyor
+10 ile başlayan hata var
