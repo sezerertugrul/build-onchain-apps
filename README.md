@@ -158,3 +158,4 @@ tekrarlamalar yuapılıyor
 10 ile başlayan hata var
 10 tekrarlandı başarısız
 Tekrar deneme için hazırlanıyor
+kararsız ağ sinyali
