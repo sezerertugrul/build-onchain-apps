@@ -159,3 +159,4 @@ tekrarlamalar yuapılıyor
 10 tekrarlandı başarısız
 Tekrar deneme için hazırlanıyor
 kararsız ağ sinyali
+karasız devam ediyor
