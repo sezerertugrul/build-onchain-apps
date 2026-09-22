@@ -160,3 +160,4 @@ tekrarlamalar yuapılıyor
 Tekrar deneme için hazırlanıyor
 kararsız ağ sinyali
 karasız devam ediyor
+tekrarlanıyor
