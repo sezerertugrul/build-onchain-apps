@@ -162,3 +162,4 @@ kararsız ağ sinyali
 karasız devam ediyor
 tekrarlanıyor
 başa tutturuldu
+sonuç yaklaştı
