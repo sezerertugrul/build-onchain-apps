@@ -163,3 +163,4 @@ karasız devam ediyor
 tekrarlanıyor
 başa tutturuldu
 sonuç yaklaştı
+son deneme
