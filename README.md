@@ -164,3 +164,4 @@ tekrarlanıyor
 başa tutturuldu
 sonuç yaklaştı
 son deneme
+bugün kontrolde
