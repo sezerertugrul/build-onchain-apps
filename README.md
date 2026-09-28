@@ -165,3 +165,4 @@ başa tutturuldu
 sonuç yaklaştı
 son deneme
 bugün kontrolde
+kontrol devam ediyor
