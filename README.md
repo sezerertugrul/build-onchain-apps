@@ -166,3 +166,4 @@ sonuç yaklaştı
 son deneme
 bugün kontrolde
 kontrol devam ediyor
+bugün yeni kontrol var
