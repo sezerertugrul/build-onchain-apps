@@ -167,3 +167,4 @@ son deneme
 bugün kontrolde
 kontrol devam ediyor
 bugün yeni kontrol var
+control sırasında sorun oldu
