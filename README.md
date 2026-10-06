@@ -173,3 +173,4 @@ bugün tekrarlandı 1
 Tekrarlama 2
 tekrarlama 3
 *
+Tekrarlama başarısız yenilenecek
