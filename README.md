@@ -175,3 +175,4 @@ tekrarlama 3
 *
 Tekrarlama başarısız yenilenecek
 yenileme başladı
+devam ediyor
