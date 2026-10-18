@@ -185,3 +185,4 @@ Denemeye devam
 devam ettim
 tekrarlama başladı
 tekrarlama1.gün
+Tekrarlama 2. güm
