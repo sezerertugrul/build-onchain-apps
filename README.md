@@ -187,3 +187,4 @@ tekrarlama başladı
 tekrarlama1.gün
 Tekrarlama 2. güm
 Tekrarlama3. gün
+kontrolu deneme
