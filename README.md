@@ -192,3 +192,4 @@ tekrarı Bakıma başlayacağım
 yenileme zamanı
 deneme kontrol
 yeni bişeyler ekleme
+son denemeler bitiyor
