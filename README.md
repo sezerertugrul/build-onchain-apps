@@ -202,3 +202,4 @@ karmaşık yapı deneme
 yeni bişeyler ekleme
 blok satır tekrarı
 son şekil beklemek
+yeni rota başlama
