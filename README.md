@@ -206,3 +206,4 @@ yeni rota başlama
 kahramalar yanlız olmamalı
 birkez daha bakılacak
 blok satır
+kahraman asker swayk
