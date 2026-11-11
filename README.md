@@ -209,3 +209,4 @@ blok satır
 kahraman asker swayk
 son bakış deneme
 blok satır
+tekrarlanan
