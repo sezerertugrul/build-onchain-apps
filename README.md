@@ -214,3 +214,4 @@ yeni bişeyler ekleme
 kahramalar yanlız olmamalı
 onchain creativity
 ortam oluşturmak
+kaynak arayışı
