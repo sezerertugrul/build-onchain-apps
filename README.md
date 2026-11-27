@@ -225,3 +225,4 @@ Build Onchain
 engagement platform
 comprising 
 Community engagement
+creativity with the Build
